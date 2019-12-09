@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Human
+comment1.params=nm
+comment1.target=Human(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=boolean\ canVote()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SearchSort
+comment1.params=
+comment1.target=void\ main()
+comment2.params=list\ a
+comment2.target=boolean\ seqSearch(java.util.ArrayList,\ java.lang.String)
+comment3.params=list
+comment3.target=java.util.ArrayList\ selSort(java.util.ArrayList)
+comment4.params=list
+comment4.target=java.util.ArrayList\ insertSort(java.util.ArrayList)
+comment5.params=nums\ index1\ index2
+comment5.target=int[]\ takePart(int[],\ int,\ int)
+comment6.params=nums1\ nums2
+comment6.target=int[]\ totalOrder(int[],\ int[])
+comment7.params=a
+comment7.target=int[]\ merSort(int[])
+comment8.params=a\ b
+comment8.target=boolean\ binSearch(int[],\ int)
+numComments=9

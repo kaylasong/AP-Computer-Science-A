@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=n\ d
+comment0.target=Fraction(int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment10.params=other
+comment10.target=boolean\ equals(Fraction)
+comment2.params=
+comment2.target=int\ getNum()
+comment3.params=
+comment3.target=int\ getDen()
+comment4.params=
+comment4.target=void\ simplify()
+comment5.params=a\ b
+comment5.target=int\ gcf(int,\ int)
+comment6.params=other
+comment6.target=Fraction\ multiply(Fraction)
+comment7.params=other
+comment7.target=Fraction\ divide(Fraction)
+comment8.params=other
+comment8.target=Fraction\ add(Fraction)
+comment9.params=other
+comment9.target=Fraction\ subtract(Fraction)
+numComments=11

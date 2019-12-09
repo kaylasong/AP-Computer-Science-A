@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=na\ ID
+comment0.target=StaffMember(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getSalary()
+comment3.params=
+comment3.target=int\ getID()
+comment4.params=newID
+comment4.target=void\ changeID(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=other
+comment6.target=boolean\ equals(java.lang.Object)
+numComments=7

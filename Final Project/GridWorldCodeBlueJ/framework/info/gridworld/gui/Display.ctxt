@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ The\ <code>Display</code>\ interface\ contains\ the\ method\ needed\ to\ display\ a\r\n\ grid\ object.\ <br\ />\r\n\ This\ code\ is\ not\ tested\ on\ the\ AP\ CS\ A\ and\ AB\ exams.\ It\ contains\ GUI\r\n\ implementation\ details\ that\ are\ not\ intended\ to\ be\ understood\ by\ AP\ CS\r\n\ students.\r\n
+comment1.params=obj\ c\ g2\ rect
+comment1.target=void\ draw(java.lang.Object,\ java.awt.Component,\ java.awt.Graphics2D,\ java.awt.Rectangle)
+comment1.text=\r\n\ Method\ invoked\ to\ draw\ an\ object.\r\n\ @param\ obj\ object\ we\ want\ to\ draw\r\n\ @param\ comp\ component\ on\ which\ to\ draw\r\n\ @param\ g2\ drawing\ surface\r\n\ @param\ rect\ rectangle\ in\ which\ to\ draw\r\n
+numComments=2

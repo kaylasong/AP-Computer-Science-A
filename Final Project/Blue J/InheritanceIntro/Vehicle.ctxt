@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=Vehicle()
+comment2.params=
+comment2.target=boolean\ canGo()
+comment3.params=
+comment3.target=boolean\ canStop()
+comment4.params=
+comment4.target=boolean\ canTurn()
+numComments=5

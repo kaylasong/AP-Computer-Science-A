@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dir\ loc\ gr
+comment0.target=Sunny(int,\ info.gridworld.grid.Location,\ info.gridworld.grid.Grid)
+comment1.params=
+comment1.target=java.util.ArrayList\ getRange()
+comment2.params=
+comment2.target=void\ setRange()
+numComments=3

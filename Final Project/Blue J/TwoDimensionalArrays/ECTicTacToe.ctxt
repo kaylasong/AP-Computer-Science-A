@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ECTicTacToe
+comment1.params=
+comment1.target=void\ main()
+comment2.params=chart\ choice
+comment2.target=java.lang.String[][]\ thingy(java.lang.String[][],\ java.lang.String)
+comment3.params=chart
+comment3.target=java.lang.String[][]\ physicalChart(java.lang.String[][])
+comment4.params=chart\ myW
+comment4.target=void\ opponent(java.lang.String[][],\ java.lang.String)
+comment5.params=chart\ choice\ myW
+comment5.target=int\ wonOrNot(java.lang.String[][],\ java.lang.String,\ java.lang.String)
+numComments=6

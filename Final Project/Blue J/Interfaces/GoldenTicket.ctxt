@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GoldenTicket
+comment1.params=nm\ initialSpot
+comment1.target=GoldenTicket(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getPriority()
+comment3.params=a
+comment3.target=void\ setPriority(int)
+comment4.params=
+comment4.target=void\ nextUp()
+numComments=5

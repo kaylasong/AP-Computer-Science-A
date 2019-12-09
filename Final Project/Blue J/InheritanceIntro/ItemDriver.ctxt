@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ItemDriver
+comment1.params=
+comment1.target=void\ main()
+comment2.params=stuff
+comment2.target=double\ totalWeight(Item[])
+comment3.params=w\ a
+comment3.target=int\ attack(Weapon,\ Armor)
+comment4.params=stuff
+comment4.target=int\ countWeapons(Item[])
+comment5.params=stuff
+comment5.target=int\ countPotions(java.util.ArrayList)
+comment6.params=w\ reps
+comment6.target=double\ averageAttack(Weapon,\ int)
+comment7.params=stuff
+comment7.target=Item\ heavyArmor(Item[])
+numComments=8

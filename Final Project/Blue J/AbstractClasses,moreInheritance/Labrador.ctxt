@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Labrador
+comment1.params=name\ color
+comment1.target=Labrador(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment3.params=
+comment3.target=int\ avgBreedWeight()
+numComments=4

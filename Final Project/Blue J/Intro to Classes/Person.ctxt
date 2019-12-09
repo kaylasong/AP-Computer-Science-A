@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=inFName\ inLName\ inGender\ inAge
+comment1.target=Person(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=int\ numLetters()
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment4.params=
+comment4.target=java.lang.String\ getGender()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=newName
+comment6.target=java.lang.String\ changeFirstName(java.lang.String)
+comment7.params=newName
+comment7.target=java.lang.String\ changeLastName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ genderSwap()
+comment9.params=
+comment9.target=int\ birthday()
+numComments=11

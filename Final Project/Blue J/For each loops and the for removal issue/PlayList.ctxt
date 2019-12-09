@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlayList
+comment1.params=
+comment1.target=PlayList()
+comment2.params=thing
+comment2.target=PlayList(java.util.ArrayList)
+comment3.params=newthing
+comment3.target=void\ add(Song)
+comment4.params=
+comment4.target=int\ numberOfSongs()
+comment5.params=
+comment5.target=double\ totalLength()
+comment6.params=
+comment6.target=Song\ playSong()
+comment7.params=hi
+comment7.target=void\ removeLength(double)
+comment8.params=
+comment8.target=void\ shuffle()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

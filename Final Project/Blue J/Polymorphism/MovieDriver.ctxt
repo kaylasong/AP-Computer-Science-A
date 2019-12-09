@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=p\ n
+comment1.target=void\ playN(PlayMovie,\ int)
+comment2.params=p\ n
+comment2.target=int\ timeToWatch(PlayMovie,\ int)
+comment3.params=p
+comment3.target=boolean\ canPlayGames(PlayMovie)
+comment4.params=p
+comment4.target=Computer\ upgrade(PlayMovie)
+comment5.params=list
+comment5.target=java.util.ArrayList\ removeOld(java.util.ArrayList)
+comment6.params=desiredOutput
+comment6.target=java.lang.Object\ anyType(java.lang.String)
+numComments=7

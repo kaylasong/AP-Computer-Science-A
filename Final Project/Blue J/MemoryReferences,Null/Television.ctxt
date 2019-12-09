@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Television
+comment1.params=sizeInput\ brandInput
+comment1.target=Television(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=newBrand
+comment4.target=void\ changeBrand(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=other
+comment6.target=boolean\ equals(Television)
+numComments=7

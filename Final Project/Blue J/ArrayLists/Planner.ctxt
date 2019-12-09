@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Planner
+comment1.params=cal
+comment1.target=Planner(java.util.ArrayList)
+comment2.params=
+comment2.target=int\ dateLength()
+comment3.params=
+comment3.target=java.util.ArrayList\ getCalendar()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAssignments()
+comment5.params=
+comment5.target=int\ assignmentLength()
+comment6.params=thing
+comment6.target=void\ addAssignment(java.lang.String)
+comment7.params=thing
+comment7.target=boolean\ containsDate(Date)
+comment8.params=
+comment8.target=void\ printAssignments()
+numComments=9

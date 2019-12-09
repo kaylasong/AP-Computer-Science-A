@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Staff()
+comment1.params=dude
+comment1.target=void\ add(StaffMember)
+comment2.params=staff
+comment2.target=int\ highestID(java.util.ArrayList)
+comment3.params=
+comment3.target=int\ allSalary()
+comment4.params=
+comment4.target=int\ countVolunteers()
+comment5.params=name
+comment5.target=Boss\ getBoss(java.lang.String)
+comment6.params=
+comment6.target=Employee\ first()
+comment7.params=other
+comment7.target=int\ countDupes(java.util.ArrayList)
+comment8.params=
+comment8.target=void\ print()
+numComments=9

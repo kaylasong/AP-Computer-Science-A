@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiaryFun
+comment1.params=
+comment1.target=void\ main()
+comment2.params=words
+comment2.target=java.lang.String\ firstString(java.util.ArrayList)
+comment3.params=diaries
+comment3.target=int\ totalEntries(Diary[][])
+numComments=4

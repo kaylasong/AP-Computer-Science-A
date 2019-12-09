@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jumper
+comment1.params=
+comment1.target=Jumper()
+comment2.params=c
+comment2.target=Jumper(java.awt.Color)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ canMove()
+comment5.params=s
+comment5.target=void\ move(int)
+comment6.params=
+comment6.target=void\ turn()
+numComments=7

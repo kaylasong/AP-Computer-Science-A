@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fight
+comment1.params=
+comment1.target=void\ main()
+comment2.params=guy
+comment2.target=void\ status(Character)
+comment3.params=user\ cpu
+comment3.target=java.lang.String\ playerMove(Character,\ Character)
+comment4.params=count\ cpu\ user
+comment4.target=boolean\ ifSpecial(int,\ Character,\ Character)
+numComments=5

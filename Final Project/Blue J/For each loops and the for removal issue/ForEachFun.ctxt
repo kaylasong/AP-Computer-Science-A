@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ForEachFun
+comment1.params=
+comment1.target=void\ main()
+comment2.params=numbers
+comment2.target=int\ positives(int[])
+comment3.params=thing
+comment3.target=int\ sumAll(int[])
+comment4.params=thing
+comment4.target=int\ sumAll(java.util.ArrayList)
+comment5.params=thing\ thiing
+comment5.target=java.util.ArrayList\ removeSub(java.util.ArrayList,\ java.lang.String)
+comment6.params=thing
+comment6.target=java.util.ArrayList\ removeThrees(java.util.ArrayList)
+numComments=7

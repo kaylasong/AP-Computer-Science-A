@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CoveredSun
+comment1.params=t\ d\ g
+comment1.target=CoveredSun(Sun,\ int,\ info.gridworld.grid.Grid)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

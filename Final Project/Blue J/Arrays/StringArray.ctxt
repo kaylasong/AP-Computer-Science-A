@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StringArray
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a
+comment2.target=java.lang.String[]\ capsLock(java.lang.String[])
+comment3.params=a\ b
+comment3.target=boolean\ allEqual(java.lang.String[],\ java.lang.String[])
+comment4.params=words\ spot1\ spot2
+comment4.target=java.lang.String[]\ swap(java.lang.String[],\ int,\ int)
+comment5.params=a
+comment5.target=java.lang.String[]\ reverse(java.lang.String[])
+comment6.params=terms\ search
+comment6.target=int\ searchString(java.lang.String[],\ java.lang.String)
+comment7.params=a
+comment7.target=java.lang.String\ longest(java.lang.String[])
+comment8.params=a\ b
+comment8.target=int\ countLetter(java.lang.String[],\ java.lang.String)
+numComments=9

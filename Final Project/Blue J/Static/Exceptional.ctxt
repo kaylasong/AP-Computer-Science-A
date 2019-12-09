@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Exceptional
+comment1.params=
+comment1.target=void\ main()
+comment2.params=projects
+comment2.target=Homework\ mostWorth(Homework[])
+comment3.params=assignments
+comment3.target=java.util.ArrayList\ removeNines(java.util.ArrayList)
+comment4.params=x\ y
+comment4.target=int\ intPower(int,\ int)
+comment5.params=input
+comment5.target=java.lang.String\ capFirst(java.lang.String)
+comment6.params=words\ x
+comment6.target=java.lang.String[]\ remove(java.lang.String[],\ int)
+comment7.params=list1\ list2
+comment7.target=java.lang.String\ mostCommon(java.util.ArrayList,\ java.lang.String[])
+numComments=8

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DeckOCardz()
+comment1.params=
+comment1.target=void\ shuffle()
+comment2.params=
+comment2.target=Cardz\ pickCard()
+comment3.params=card
+comment3.target=void\ returnCard(Cardz)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

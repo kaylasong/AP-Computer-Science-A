@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Coin
+comment1.params=
+comment1.target=Coin()
+comment10.params=x
+comment10.target=boolean\ equals(Coin)
+comment2.params=inputBias
+comment2.target=Coin(double)
+comment3.params=
+comment3.target=boolean\ isHeads()
+comment4.params=
+comment4.target=boolean\ isTails()
+comment5.params=
+comment5.target=void\ flip()
+comment6.params=n
+comment6.target=int\ flip(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=java.lang.String\ getFace()
+comment9.params=
+comment9.target=double\ getBias()
+numComments=11

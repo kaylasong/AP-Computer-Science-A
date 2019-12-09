@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Casino
+comment1.params=
+comment1.target=void\ main()
+comment2.params=wallet
+comment2.target=int\ Blackjack(int)
+comment3.params=wallet
+comment3.target=int\ Poker(int)
+numComments=4

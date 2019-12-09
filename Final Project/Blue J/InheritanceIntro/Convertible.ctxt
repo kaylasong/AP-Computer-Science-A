@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Convertible
+comment1.params=y\ ma\ mo
+comment1.target=Convertible(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ canGoFast()
+comment3.params=
+comment3.target=boolean\ topDown()
+comment4.params=
+comment4.target=void\ raiseTop()
+comment5.params=
+comment5.target=void\ lowerTop()
+numComments=6

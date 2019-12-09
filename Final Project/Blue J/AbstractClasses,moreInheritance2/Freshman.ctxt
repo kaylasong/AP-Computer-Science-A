@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Freshman
+comment1.params=nm\ g
+comment1.target=Freshman(java.lang.String,\ double)
+comment2.params=
+comment2.target=boolean\ enjoySchool()
+comment3.params=
+comment3.target=boolean\ canVote()
+numComments=4

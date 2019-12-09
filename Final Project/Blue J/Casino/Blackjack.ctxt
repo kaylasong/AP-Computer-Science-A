@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=wallet\ wager
+comment0.target=int\ main(int,\ int)
+comment1.params=userhand
+comment1.target=boolean\ checkLoss(java.util.ArrayList)
+comment2.params=userhand\ deck
+comment2.target=java.util.ArrayList\ userhit(java.util.ArrayList,\ DeckOCardz)
+comment3.params=hand
+comment3.target=int\ checkValue(java.util.ArrayList)
+comment4.params=total
+comment4.target=boolean\ bust(int)
+comment5.params=hand
+comment5.target=boolean\ ace(java.util.ArrayList)
+comment6.params=hand\ deck
+comment6.target=java.util.ArrayList\ cpuhit(java.util.ArrayList,\ DeckOCardz)
+numComments=7

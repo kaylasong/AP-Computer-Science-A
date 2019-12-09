@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nm\ nu
+comment0.target=Computer(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getProcs()
+comment3.params=
+comment3.target=int\ getRewindTime()
+comment4.params=
+comment4.target=boolean\ skipPreviews()
+numComments=5

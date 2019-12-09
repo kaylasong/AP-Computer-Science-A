@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=iName\ iWeight
+comment1.target=Item(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getWeight()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=s
+comment4.target=void\ changeName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=other
+comment6.target=boolean\ equals(Item)
+numComments=7
